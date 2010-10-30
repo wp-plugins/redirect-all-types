@@ -1,20 +1,20 @@
 === Plugin Name ===
 Contributors: kegentile
 Donate link: 
-Tags: login, redirect, admin, administration, dashboard, users, authentication
+Tags: redirect, custom post type, post, page
 Requires at least: 2.7
 Tested up to: 3.1
 Stable tag: trunk
 
-Adds a field to the user's profile for redirection upon login.  
+Adds a meta box to posts, pages, and any custom post type allowing users to add reditect to the post, page, or custom post type
 
 == Description ==
 
-This plugin will add a field to users' profiles specifically for redirecting the user upon a successful login.  If no redirect is specified the standard login rules will apply.  It doesn't currently support bulk redirects as in the instance of redirecting users with a specific role.  Simple Login Redirect does support local redirects and redirects that point to another site.  
+This plugin makes redirect of post, pages, and all custom post types easy.  It adds a meta box to the edit/add screen of each with the user can add a URL for redirection.  Once save, if you visit the post, page, or custom post type, you will be redirected to the inputted URL.
 
 == Installation ==
 
-Download and unzip to your WordPress Plugin folder.  Then simple activate the plugin.  The field for redirection will be added to the end of the user's profiles.  Input the full URL's including http:// and the save the profile.  The next time this user logs in they will be redirected to the URL you have specified.  
+Download and unzip to your WordPress Plugin folder.  Then simple activate the plugin.  The meta box will be added to all posts, pages, and custom post type.  In the edit screen, just enter a valid URL including the HTTP:// and update the post.  Next time when you try to view the post you will be redirected to the inputted URL.
 
 == Screenshots ==
 
