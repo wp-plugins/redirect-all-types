@@ -10,7 +10,7 @@ Adds a meta box to posts, pages, and any custom post type allowing users to add 
 
 == Description ==
 
-This plugin makes redirect of post, pages, and all custom post types easy.  It adds a meta box to the edit/add screen of each with the user can add a URL for redirection.  Once save, if you visit the post, page, or custom post type, you will be redirected to the inputted URL.
+This plugin makes redirecting of post, pages, and all custom post types easy.  It adds a meta box to the edit/add screen of each, which the user can add a URL for redirection.  Once saved, if you visit the post, page, or custom post type, you will be redirected to the inputted URL.
 
 == Installation ==
 
