@@ -27,3 +27,5 @@ If you have questions or comments please post them in the comment section of htt
 == Changelog ==
 
 * 9/6/2010 - Launch of version 1.0
+
+* 11/3/2010 - Fixed but with function get_user_meta not existing with versions of WordPress less than 3.0
