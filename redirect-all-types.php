@@ -1,6 +1,6 @@
 <?php
 /* 
-Plugin Name: Redirect All Types
+Plugin Name: Redirect All Types 
 Plugin Author: Kyle G.
 Plugin URI: http://www.wpinsideout.com/plugins/redirect-all-types
 Author URI: http://www.wpinsideout.com
