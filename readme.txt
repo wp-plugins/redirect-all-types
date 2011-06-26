@@ -4,7 +4,7 @@ Donate link:
 Tags: redirect, custom post type, post, page
 Requires at least: 2.7
 Tested up to: 3.1
-Stable tag: trunk
+Stable tag: 1.5
 
 Adds a meta box to posts, pages, and any custom post type allowing users to add reditect to the post, page, or custom post type
 
