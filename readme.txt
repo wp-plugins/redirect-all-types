@@ -22,7 +22,7 @@ Download and unzip to your WordPress Plugin folder.  Then simple activate the pl
 
 == Frequently Asked Questions ==
 
-If you have questions or comments please post them in the comment section of http://www.wpinsideout.com/plugins/a-simple-redirect
+If you have questions or comments please post them in the comment section of http://www.refactord.com/plugins/redirect-all-types
 
 == Changelog ==
 
